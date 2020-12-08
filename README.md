@@ -1,0 +1,1 @@
+A springboot app that exposes a restful API which connects to mysql database to perform CRUD operations.
